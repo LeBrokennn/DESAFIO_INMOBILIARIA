@@ -8,13 +8,13 @@ Proyecto de sitio web enfocado en una inmobiliaria, desarrollado con tecnología
 
 | Herramienta     | Uso                                                        |
 |-----------------|------------------------------------------------------------|
-| HTML5           | Estructura del contenido                                   |
-| CSS3            | Estilos visuales personalizados                            |
-| Bootstrap 5     | Componentes predefinidos y sistema grid responsive         |
-| Flexbox         | Distribución y alineación de elementos                     |
-| CSS Grid        | Organización de grillas complejas                          |
-| Media Queries   | Diseño adaptable a distintos dispositivos                  |
-| JavaScript      | Lógica de interacción y comportamiento dinámico            |
+| 🖥️HTML5           | Estructura del contenido                                   |
+| 🎨CSS3            | Estilos visuales personalizados                            |
+| 🧩Bootstrap 5     | Componentes predefinidos y sistema grid responsive         |
+| 📐Flexbox         | Distribución y alineación de elementos                     |
+| 🧱CSS Grid        | Organización de grillas complejas                          |
+| 📱Media Queries   | Diseño adaptable a distintos dispositivos                  |
+| 🧲JavaScript      | Lógica de interacción y comportamiento dinámico            |
 
 --------------------------------------------------------------
 
